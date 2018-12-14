@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 int main() {
 	
 	bool validator = false;
@@ -23,6 +24,7 @@ int main() {
 	
 	switch(select){
 		case '1':{
+			//createProj();
 			break;
 		}
 		case '2':{
@@ -37,13 +39,17 @@ int main() {
 			cin >> select;
 			if (select == 'a' || select == 'A' || select == 'b' || select == 'B' ||select == 'c' || select == 'C' ||select == 'd' || select == 'D' ){
 				validator = true;
+				system("cls");
 			}
 			else{
+				system("cls");
 				cout << "Invalid Input!! Press any key to continue...." << endl;
+				getch();
+				system("cls");
 			}
 			}
 			switch(select){
-				
+
 			}
 			break;	
 			}
@@ -63,7 +69,7 @@ int main() {
 			break;
 		}
 	}
-
+	
 	
 	}while (exitflag == 0);
 	
