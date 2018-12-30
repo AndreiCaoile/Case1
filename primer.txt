@@ -1,0 +1,10 @@
+1,Caoile Andrei,2,110
+2,CC,4,98
+3,FAD EOT,1,433
+4,4 Chan,1,65
+5,Pepeco,2,65
+6,Twih,2,312
+7,Enterprises and Saints,3,65
+8,Alloy Based Cavanaugh,3,65
+9,Three State Cavanaugh,2,110
+10,TWICE,1,65
